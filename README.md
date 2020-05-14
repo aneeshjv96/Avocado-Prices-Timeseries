@@ -18,6 +18,21 @@
 
 *Sales Forecast for Organic Avocados: y=price per Avocado, ds=date over time*
 
+***Exploratory Data Analysis***
+
+few insights:
+
+- Average Price graph shows that there was a huge hike in prices after July 2017 and before Jan 2018
+- All the Features are not correleted with the Average Price column
+- West, California and South Central regions demand more volumes of avocados
+- Understood that HartfordSpringfield, SanFrancisco, NewYork, Philadelphia, Sacramento have costly avocados
+
+***Data Modelling***
+
+- Forescasted prices of avocados for 450 days from 25-03-2018
+- Forescasted prices of organic avocados for 450 days from 25-03-2018
+- Forescasted prices of Coventional avocados for 450 days from 25-03-2018
+
 
 ### Predicting accuracy from original hass avocado site:
 
